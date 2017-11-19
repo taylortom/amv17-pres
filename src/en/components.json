@@ -1,0 +1,394 @@
+[
+  {
+    "_id": "5a0d8cb27d600e7a807d27c8",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5a0d8cb27d600e7a807d27c7",
+    "body": "<ul>\n\t<li>Try the tool</li>\n\t<li>Join the discussion: forum, gitter</li>\n\t<li>Join a weekly stand-up meeting</li>\n\t<li>Join a roadmap meeting (usually quarterly/biannually)</li>\n\t<li>Pick up some work/request issues: github</li>\n</ul>\n\n<p><strong>Missing links:</strong></p>\n\n<ul>\n\t<li>Usability testing</li>\n\t<li>Front-end development</li>\n\t<li>User-interface/user experience</li>\n</ul>\n",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a0d90cd7d600e7a807d27cd",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5a0b84829abbd30cbd307f65",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/43668e548ebce46dc72392f803683f7df284f4d8.png",
+      "small": "course/en/assets/43668e548ebce46dc72392f803683f7df284f4d8.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a0b50129abbd30cbd307f5d",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5a0b50129abbd30cbd307f5b",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d76f3652aa1c3fc5f358312992e2103c2f229548.jpeg",
+      "small": "course/en/assets/d76f3652aa1c3fc5f358312992e2103c2f229548.jpeg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a0d8cb27d600e7a807d27c9",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5a0d8cb27d600e7a807d27c7",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/aa04d781d166ec01fc0c88eb3336a8c94a07a4c4.jpg",
+      "small": "course/en/assets/aa04d781d166ec01fc0c88eb3336a8c94a07a4c4.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a0cd3d79a9ead6c09da82c8",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5a0cd3ac9a9ead6c09da82c3",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "blank",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "5a0b50159abbd30cbd307f60",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5a0b50159abbd30cbd307f5f",
+    "body": "<p><strong>Roles:</strong></p>\n\n<ul>\n\t<li><strong>Kineo</strong>: Open-source Learning Technologies Developer</li>\n\t<li><strong>Adapt</strong>: authoring tool core&nbsp;developer</li>\n</ul>\n\n<p><strong>Contact</strong>:</p>\n\n<ul>\n\t<li><strong>Work</strong>: <a href=\"mailto:thomas.taylor@kineo.com\" target=\"_blank\">thomas.taylor@kineo.com</a></li>\n\t<li><strong>Personal</strong>: <a href=\"mailto:hello@tomtaylor.name\" target=\"_blank\">hello@tomtaylor.name</a></li>\n\t<li><strong>GitHub</strong>: <a href=\"https://github.com/taylortom\">taylortom</a></li>\n</ul>\n",
+    "displayTitle": "Tom Taylor",
+    "title": "Tom Taylor",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a0c322a9a9ead6c09da826b",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5a0c10509a9ead6c09da8268",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "typist",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "initialText": "Fast-forward to 2017",
+    "texts": [
+      "13 releases",
+      "2,452 git commits",
+      "600 files",
+      "24 contributors",
+      "1,473 issues closed",
+      "611 pull requests merged",
+      "132 GitHub forks"
+    ],
+    "loop": true,
+    "fontSize": "50"
+  },
+  {
+    "_id": "5a0cbf7c9a9ead6c09da829d",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5a0b50159abbd30cbd307f5f",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/af3e359dd86412f7c75d4603e3300f1ba035d476.jpg",
+      "small": "course/en/assets/af3e359dd86412f7c75d4603e3300f1ba035d476.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a0b50129abbd30cbd307f5c",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5a0b50129abbd30cbd307f5b",
+    "body": "<p><strong>8th November 2017</strong></p>\n\n<p>Main focuses for the next year:</p>\n\n<ul>\n\t<li>Course import</li>\n\t<li>Theming</li>\n\t<li>Tenant management</li>\n\t<li>Asset management rewrite</li>\n\t<li>Editor revamp</li>\n\t<li>Support for multiple framework versions</li>\n\t<li>Support for multi-language courses &amp; app localisation</li>\n</ul>\n",
+    "displayTitle": "Roadmap Q4 2017",
+    "title": "Roadmap Q4 2017",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a0d91347d600e7a807d27d9",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5a0d912c7d600e7a807d27d7",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3713d649b0c4f095cf5edc30ee69ebe5be58d352.png",
+      "small": "course/en/assets/3713d649b0c4f095cf5edc30ee69ebe5be58d352.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a0b4fb09abbd30cbd307f54",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5a0b4fa79abbd30cbd307f53",
+    "body": "<ul>\n\t<li>7 regular contributors from 4 collaborating companies</li>\n\t<li>Weekly development stand-ups (Google Hangouts)</li>\n\t<li>Post-release retrospectives</li>\n\t<li>Developer chat in the open on Gitter in the <strong>adapt_authoring</strong> room</li>\n</ul>\n",
+    "displayTitle": "The core team",
+    "title": "The core team",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a0c9b439a9ead6c09da8294",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5a0b90d19abbd30cbd307f67",
+    "body": "<ul>\n\t<li><strong>Work</strong>: <a href=\"mailto:thomas.taylor@kineo.com\" target=\"_blank\">thomas.taylor@kineo.com</a></li>\n\t<li><strong>Personal</strong>: <a href=\"mailto:hello@tomtaylor.name\" target=\"_blank\">hello@tomtaylor.name</a></li>\n\t<li><strong>GitHub</strong>: <a href=\"https://github.com/taylortom\">taylortom</a></li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Presentation available at: <a href=\"http://tomtaylor.name/adapt-vienna\">tomtaylor.name/adapt-vienna</a></p>\n",
+    "displayTitle": "Contact:",
+    "title": "Contact:",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a0c45609a9ead6c09da827b",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5a0c45609a9ead6c09da8277",
+    "body": "<ul>\n\t<li>Flash-based</li>\n\t<li>Desktop-first</li>\n\t<li>Native apps</li>\n</ul>\n",
+    "displayTitle": "Elearning",
+    "title": "Elearning",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a0c9d3f9a9ead6c09da8295",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5a0b90d19abbd30cbd307f67",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8f73f589fa82d10a1d3e8229cfc9ab301f2ec041.jpg",
+      "small": "course/en/assets/8f73f589fa82d10a1d3e8229cfc9ab301f2ec041.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a0cc2b79a9ead6c09da82a3",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5a0cc2b79a9ead6c09da82a1",
+    "body": "<ul>\n\t<li>Evolve</li>\n\t<li>Elucidat</li>\n\t<li>Gomo</li>\n\t<li>Storyline</li>\n\t<li>Captivate</li>\n\t<li>... and many more</li>\n</ul>\n\n<p>But none of them free and open-source!</p>\n\n<ul>\n</ul>\n",
+    "displayTitle": "",
+    "title": "Text",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a0d98da7d600e7a807d27f2",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5a0b4fa79abbd30cbd307f53",
+    "body": "<ol>\n\t<li>Feature identification</li>\n\t<li>Requirements gathering</li>\n\t<li>Design (code/UI)</li>\n\t<li>Implementation</li>\n\t<li>Testing/bug-fixing</li>\n\t<li>Release</li>\n</ol>\n",
+    "displayTitle": "Process",
+    "title": "Process",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a0ccad69a9ead6c09da82c1",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5a0c45609a9ead6c09da8277",
+    "body": "<ul>\n\t<li>Expensive</li>\n\t<li>Monolithic</li>\n\t<li>Often desktop-based</li>\n\t<li><strong>Proprietary</strong></li>\n</ul>\n",
+    "displayTitle": "Authoring",
+    "title": "Authoring",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a0cc4a09a9ead6c09da82ad",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5a0cc4a09a9ead6c09da82ac",
+    "body": "<p style=\"text-align:left\"><strong>Our project aims:</strong></p>\n\n<ul>\n\t<li style=\"text-align:left\"><span style=\"color:#4D4D4D\">Market disruption</span></li>\n\t<li style=\"text-align:left\"><span style=\"color:#4D4D4D\">Open collaboration</span></li>\n\t<li style=\"text-align:left\"><span googl=\"true\" style=\"color:#4D4D4D\">Technology no longer the differentiator</span></li>\n</ul>\n\n<p><strong>Our authoring tool:</strong></p>\n\n<ul dir=\"ltr\">\n\t<li>Modern technology: HTML5</li>\n\t<li><span style=\"color:#4D4D4D\">Browser-based web app, no user installs</span></li>\n\t<li style=\"text-align:left\"><span style=\"color:#4D4D4D\">Server-based node app for the back-end</span></li>\n\t<li style=\"text-align:left\"><span style=\"color:#4D4D4D\">Multi-tenanted: single installation, many clients</span></li>\n\t<li style=\"text-align:left\"><strong><span style=\"color:#4D4D4D\">FREE AND OPEN-SOURCE</span></strong></li>\n</ul>\n",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a0cc94f9a9ead6c09da82bc",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5a0cc4a09a9ead6c09da82ac",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4a792a70d19ed14054820030b25109a0e244b13e.jpg",
+      "small": "course/en/assets/4a792a70d19ed14054820030b25109a0e244b13e.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a0b90a19abbd30cbd307f66",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5a0b84829abbd30cbd307f65",
+    "body": "<p style=\"text-align: center;\">2,452 commits and 13 releases later...</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Adapt authoring tool features:</strong></p>\n\n<ul>\n\t<li><span>Uses the latest Adapt framework v2.x</span></li>\n\t<li>Create beautiful elearning courses with no programming</li>\n\t<li>One source: a single responsive HTML5 course supports all of your devices</li>\n\t<li>Extend your courses with both core and third-party plugins</li>\n\t<li>Easily integrate your courses with your existing LMS with support for SCORM and xAPI</li>\n\t<li>Export your course source code for standalone command-line development</li>\n\t<li>Full user management, so you can develop and share courses with your team</li>\n\t<li>Manage your asset library in the with search and tagging</li>\n</ul>\n",
+    "displayTitle": "",
+    "title": "Features",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  }
+]

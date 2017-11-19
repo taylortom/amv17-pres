@@ -1,0 +1,165 @@
+{
+    "_globals": {
+        "_components": {
+            "_accordion": {
+                "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+            },
+            "_graphic": {
+                "ariaRegion": ""
+            },
+            "_media": {
+                "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
+                "transcriptButton": "Alternatively you can select the link below for the transcript."
+            },
+            "_narrative": {
+                "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+            },
+            "_text": {
+                "ariaRegion": ""
+            }
+        },
+        "_extensions": {
+            "_pageLevelProgress": {
+                "pageLevelProgress": "Page sections",
+                "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
+                "pageLevelProgressMenuBar": "You have completed ",
+                "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+                "optionalContent": "Optional Content"
+            },
+            "_resources": {
+                "resourcesEnd": "You have reached the end of the list of resources."
+            }
+        },
+        "_menu": {
+            "_boxmenu": {
+                "ariaRegion": "Menu",
+                "durationLabel": "Duration:",
+                "menuItem": "Menu item.",
+                "menuEnd": "You have reached the end of the menu."
+            }
+        },
+        "_accessibility": {
+            "_ariaLabels": {
+                "menuIndicatorHeading": "Menu item heading ",
+                "menuBack": "Back to menu",
+                "visited": "Visited",
+                "feedbackPopUp": "Popup opened",
+                "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
+                "locked": "Locked",
+                "correct": "Correct",
+                "incomplete": "Incomplete",
+                "complete": "Complete",
+                "done": "Done",
+                "next": "Next",
+                "closePopup": "Close popup",
+                "drawer": "Side drawer",
+                "drawerBack": "Back to drawer",
+                "closeResources": "Close resources",
+                "navigationDrawer": "Open course resources and search",
+                "navigationBack": "Navigate back",
+                "previous": "Back",
+                "pageLoaded": "Page loaded",
+                "page": "Page",
+                "menuViewButton": "Select here to enter",
+                "menuItem": "Menu item",
+                "menu": "Menu",
+                "menuLoaded": "Menu loaded",
+                "navigation": "Course navigation bar"
+            },
+            "_accessibilityInstructions": {
+                "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select.",
+                "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+                "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page."
+            },
+            "_accessibilityToggleTextOff": "Turn accessibility off?",
+            "_accessibilityToggleTextOn": "Turn accessibility on?"
+        }
+    },
+    "_id": "course",
+    "_start": {
+        "_isEnabled": true,
+        "_startIds": [
+            {
+                "_id": "5a0b4fa79abbd30cbd307f51",
+                "_skipIfComplete": false,
+                "_className": ""
+            }
+        ],
+        "_force": false,
+        "_isMenuDisabled": false
+    },
+    "_type": "course",
+    "_lockType": "",
+    "menuSettings": "",
+    "themeSettings": null,
+    "_classes": "",
+    "_buttons": {
+        "disabledAriaLabel": "This button is disabled at the moment",
+        "remainingAttemptText": "final attempt",
+        "remainingAttemptsText": "remaining attempts",
+        "_showFeedback": {
+            "ariaLabel": "Show feedback",
+            "buttonText": "Show feedback"
+        },
+        "_hideCorrectAnswer": {
+            "ariaLabel": "Hide correct answer",
+            "buttonText": "Hide correct answer"
+        },
+        "_showCorrectAnswer": {
+            "ariaLabel": "Show correct answer",
+            "buttonText": "Show correct answer"
+        },
+        "_reset": {
+            "ariaLabel": "Reset",
+            "buttonText": "Reset"
+        },
+        "_submit": {
+            "ariaLabel": "Submit",
+            "buttonText": "Submit"
+        }
+    },
+    "_latestTrackingId": 12,
+    "body": "",
+    "displayTitle": "Adapt Meetup Vienna 2017",
+    "title": "Adapt Meetup Vienna 2017",
+    "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_showPageCompletion": true
+    },
+    "_resources": {
+        "_isEnabled": true,
+        "_drawerOrder": 0,
+        "title": "Resources",
+        "description": "Click here to view resources for this course",
+        "_filterButtons": {
+            "all": "All",
+            "document": "Documents",
+            "media": "Media",
+            "link": "Links"
+        },
+        "_filterAria": {
+            "allAria": "View all resources",
+            "documentAria": "View document resources",
+            "mediaAria": "View media resources",
+            "linkAria": "View resource links"
+        },
+        "_resourcesItems": [
+            {
+                "_type": "link",
+                "_forceDownload": false,
+                "title": "Adapt homepage",
+                "filename": "",
+                "description": "Adapt's home page!",
+                "_link": "https://www.adaptlearning.org/"
+            },
+            {
+                "_type": "link",
+                "_forceDownload": false,
+                "title": "Plugin browser",
+                "filename": "",
+                "description": "Repository of Adapt plugins shared by the community.",
+                "_link": "https://www.adaptlearning.org/index.php/plugin-browser/"
+            }
+        ]
+    }
+}
