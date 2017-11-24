@@ -1,6 +1,6 @@
 # AMV17 Presentation
 
-Presentation build it Adapt for the Adapt Meetup Vienna 2017.
+Presentation built in Adapt for the Adapt Meetup Vienna 2017.
 
 Intended to be viewed on desktop.
 
